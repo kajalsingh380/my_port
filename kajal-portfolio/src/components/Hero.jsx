@@ -62,7 +62,7 @@ export default function Hero() {
 
                     <p className="hero-bio">
                         A passionate B.Tech Computer Data Science student at AKTU University, crafting beautiful
-                        and responsive web experiences. Currently in my 1st year, eagerly building skills in
+                        and responsive web experiences. Currently in my 2nd year, eagerly building skills in
                         modern web development.
                     </p>
 
@@ -78,7 +78,7 @@ export default function Hero() {
                         </div>
                         <div className="stat-divider" />
                         <div className="stat">
-                            <span className="stat-num">1st</span>
+                            <span className="stat-num">2nd</span>
                             <span className="stat-label">Year B.Tech</span>
                         </div>
                     </div>
